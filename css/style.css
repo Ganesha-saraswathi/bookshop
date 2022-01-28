@@ -1,0 +1,30 @@
+#w{
+  height: 600px;
+}
+
+.wh{
+  width: 300px;
+}
+
+.ml{
+  margin-top: 10px;
+}
+
+.m{
+  margin: 20px 0px 10px;
+}
+
+.mm{
+  border-radius: 10px;
+  box-shadow: 9px 12px 8px tomato;
+}
+
+.cdn{
+  border-radius: 10px;
+  box-shadow: 4px 6px 4px orange;
+  width: 30%;
+}
+
+.mml{
+  margin-bottom: 2%;
+}
